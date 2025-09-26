@@ -1,4 +1,3 @@
 const name = "myVar"
-const my = ("Javascript " + "is " + "amazing")
+const myVar = (Javascript is amazing")
 console.log(myVar)
-
