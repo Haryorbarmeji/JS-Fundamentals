@@ -1,7 +1,4 @@
-const name = "myBoy"
+const name = "myVar"
 const my = ("Javascript " + "is " + "amazing")
-console.log(myBoy)
-#!/usr/bin/env node
+console.log(myVar)
 
-const myBoy = "JavaScript is amazing";
-console.log(myBoy);
